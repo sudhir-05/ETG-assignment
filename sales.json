@@ -1,0 +1,31 @@
+{
+ "DummyData1": {
+  "NIKE TSHIRT BLUE": 1,
+  "Total": 651.0,
+  "Name": "shubham v"
+ },
+ "DummyData2": {
+  "PUMA PANTS RED": 2,
+  "HRX PANTS BLACK": 1,
+  "Total": 2361.0,
+  "Name": "sudhir"
+ },
+ "Mon Sep  6 19:21:20 2021": {
+  "NIKE PANTS BLACK": 1,
+  "ADIDAS TSHIRT BLUE": 2,
+  "Total": 2055.0,
+  "Name": "shubham1"
+ },
+ "Mon Sep  6 19:50:57 2021": {
+  "NIKE TSHIRT BLACK": 3,
+  "NIKE TSHIRT BLUE": 4,
+  "Total": 4578.0,
+  "Name": "sudhir"
+ },
+ "Mon Sep  6 19:51:03 2021": {
+  "NIKE TSHIRT BLACK": 3,
+  "NIKE TSHIRT BLUE": 4,
+  "Total": 4578.0,
+  "Name": "sudhir"
+ }
+}
